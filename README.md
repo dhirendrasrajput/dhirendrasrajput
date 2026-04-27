@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 Dhirendra Singh Rajput
 
 🔐 CISO | Security Architect | VP / Director Cybersecurity  
@@ -169,4 +167,3 @@ Open to:
 - Enterprise architecture advisory
 - Cybersecurity innovation partnerships
 
--->
