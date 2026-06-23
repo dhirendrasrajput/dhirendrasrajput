@@ -1,7 +1,7 @@
 
 # 👋 Dhirendra Singh Rajput
 
-🔐 CISO | Security Architect | VP / Director Cybersecurity  
+🔐 AI Adoption Architect | Enterprise Architect | Security Architect | VP / Director Cybersecurity  
 🤖 AI-Driven Security | Zero Trust | Autonomous SOC  
 🏦 Fintech | SaaS | Multi-Cloud Security  
 
